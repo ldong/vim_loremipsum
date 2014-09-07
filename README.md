@@ -1,5 +1,10 @@
 # README
 
+A dummy text generator.
+
+I've put this [loremipsum vba](http://www.vim.org/scripts/script.php?script_id=2289) in to Vundle friendly format.
+
+
 ## Description
 Insert a dummy text of a certain length. Actually, the text isn't
 generated but selected from some text. By default, the following text is
